@@ -1,4 +1,4 @@
-<h1 align="center"><img src="C:\Users\User\Desktop\New folder/alah.png"></h1>
+<h1 align="center"><img src="alah.png"></h1>
 
 <center>[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 </center>
